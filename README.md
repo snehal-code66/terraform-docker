@@ -45,4 +45,4 @@ Successfully provisioned a local Docker container using Terraform.
 
 👤 Author
 
-[Your Name]
+[Snehal Kute]
